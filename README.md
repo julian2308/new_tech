@@ -1,2 +1,2 @@
 # new_tech
-First repository for New Technologies class
+First repository for new technologies class
